@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I like building stuff for the web. I'm working towards becoming a **fullstack** senior software engineer before 2022. I'm currently learning _nodejs_ and _mongodb_ which happens to be my preferred stack. I'm currently on the path to becoming a __fullstack__ software engineer and I can't wait to start getting paid for doing what I *love*.
